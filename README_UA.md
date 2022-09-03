@@ -35,12 +35,50 @@ python3 main.py
 Зайдіть на [сайт](https://my.telegram.org/auth)
 
 Ведіть свій номер телефону
+
+
+
+
+
+
 <img src="https://i.ibb.co/h23GgNS/2022-09-03-23-10-01.png"/>
 Введіть код який відправить Telegram
+
+
+
+
+
+
+
+
+
 <img src="https://i.ibb.co/ZYtxPtx/2022-09-03-23-11-32.png"/>
 Натисніть на API development tools
+
+
+
+
+
+
+
+
+
+
+
 <img src="https://i.ibb.co/d655zT6/2022-09-03-23-12-56.png"/>
 Запамятайте api_id та api_hash
+
+
+
+
+
+
+
+
+
+
+
+
 <img src="https://i.ibb.co/jyTK7ww/2022-09-03-23-14-05.png"/>
 
 
