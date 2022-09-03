@@ -42,6 +42,16 @@ python3 main.py
 <img src="https://i.ibb.co/d655zT6/2022-09-03-23-12-56.png"/>
 Запамятайте api_id та api_hash
 <img src="https://i.ibb.co/jyTK7ww/2022-09-03-23-14-05.png"/>
+
+
+
+
+
+
+
+
+
+
 Після запуску програми вона запросить api_id та api_hash
 ведіть їх. Далі запросить номер телефону його та ведіть код
  який відправить Telegram
