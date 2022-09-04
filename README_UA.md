@@ -5,6 +5,10 @@ Userbot - це програма для Telegram
 ### Linux
 Завантажте [архів](https://downgit.github.io/#/home?url=https://github.com/Archermysteri/Userbot/tree/main/Userbot_ua)
 
+
+Відкрийте консоль 
+
+
 Перевірте наявність пітона 
 ```
 python3 --version
