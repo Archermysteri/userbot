@@ -1,11 +1,10 @@
 
 # Userbot
-Userbot - це програма для Telegram 
 
+Telegram Userbot based [Pyrogram](https://github.com/pyrogram/pyrogram)
 ## Download 
 ### Linux
 
-Download [archive](https://github.com/Archermysteri/Userbot/archive/refs/heads/main.zip) and unpack
 
 Open the console 
 
@@ -27,13 +26,15 @@ Download the library
 pip3 install -U pyrogram
 pip3 install TgCrypto
 ```
+Download [archive](https://github.com/Archermysteri/Userbot/archive/refs/heads/main.zip) and unpack
 
 Go to the folder where the archive was unpacked
-
+```
+git clone https://github.com/Archermysteri/Userbot.git
+```
 
 Go to the folder of the app
 ```
-cd Userbot_ua
 cd Userbot-main
 ```
 Running the program
@@ -48,6 +49,7 @@ python3 main.py
 
 
 2. Enter **api_id** and **api_hash**
+
 
 3. Next will invite your phone number and enter the code which will send Telegram
 ### How to get ** api_id ** and ** api_hash **
