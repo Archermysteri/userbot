@@ -26,9 +26,7 @@ Download the library
 pip3 install -U pyrogram
 pip3 install TgCrypto
 ```
-Download [archive](https://github.com/Archermysteri/Userbot/archive/refs/heads/main.zip) and unpack
-
-Go to the folder where the archive was unpacked
+Download app
 ```
 git clone https://github.com/Archermysteri/Userbot.git
 ```
