@@ -5,10 +5,8 @@ from time import sleep
 import settings
 import random
 import sys
-import os
 
-token = os.environ["TOKEN"]
-print(token)
+
 config = ConfigParser()
 config.read("config.ini")
 
