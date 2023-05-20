@@ -59,7 +59,7 @@ python3 main.py
 2. Fill out the form with your details and register a new Telegram application.
 
 
-3. Done. The API key consists of two parts: **api_id** and **api_hash**. Keep it secret.
+3. Done. The API key consists of two parts: *api_id* and *api_hash*. Keep it secret.
 
 ## Setting 
 if you want to see all Setting 
